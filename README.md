@@ -17,3 +17,8 @@ View `config.example.json` to make a config and start:
 ```shell
 CONFIG=/path/to/config.json /path/to/python ./main.py
 ```
+
+### Notice
+
+Bot should be ADMIN in a group to read messages
+
